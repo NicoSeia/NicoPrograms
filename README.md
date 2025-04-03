@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on React and Backend
-- 🌱 I’m currently learning JS and Software Quality
+- 🌱 I’m currently working at Universidad Nacional de Cordoba
 - 📫 How to reach me: nicolasseia0@gmail.com
 - 😄 How do I define myself?... Responsible and a person who seeks to learn more and more.
 
